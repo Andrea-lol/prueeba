@@ -1,4 +1,4 @@
-# Material Dashboard 2 💻
+# BLUE PY - IDE 💻
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
