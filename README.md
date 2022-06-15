@@ -26,7 +26,7 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 
 Este proyecto cuenta con los siguientes requerimientos:
 
-* **RF-1: Maquetar los contenedores de cada uno de los componentes de la aplicación.**
+* RF-1: Maquetar los contenedores de cada uno de los componentes de la aplicación.
 * **RF-2: Crear un nuevo proyecto.**
 * **RF-3: Abrir un proyecto anterior.**
 * **RF-4: Visualizar información acerca de la aplicación.**
