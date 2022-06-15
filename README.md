@@ -24,29 +24,29 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 
 ## Requerimientos
 
-Este proyecto cuenta con los siguientes requerimientos:
+_Este proyecto cuenta con los siguientes requerimientos:_
 
 * RF-1: Maquetar los contenedores de cada uno de los componentes de la aplicación.
-* **RF-2: Crear un nuevo proyecto.**
-* **RF-3: Abrir un proyecto anterior.**
-* **RF-4: Visualizar información acerca de la aplicación.**
-* **RF-5: Crear paquetes dentro del proyecto.**
-* **RF-6: Eliminar paquetes dentro del proyecto.**
-* **RF-7: Crear archivos Python.**
-* **RF-8: Eliminar archivos Python.**
-* **RF-9: Crear clases.**
-* **RF-10: Eliminar clases.**
-* **RF-11: Visualizar los paquetes, archivos y clases registradas.**
-* **RF-12: Visualizar la relación de herencia entre clases.**
-* **RF-13: Modificar el contenido de un archivo Python.**
-* **RF-14: Visualizar las instancias creadas.**
-* **RF-15: Crear instancias de las clases.**
-* **RF-16: Eliminar instancias de las clases.**
-* **RF-17: Visualizar el detalle de cada instancia creada.**
-* **RF-18: Visualizar la terminal de comandos.**
-* **RF-19: Ingresar comandos en la terminal.**
-* **RF-20: Limpiar la terminal de comandos.**
-* **RF-21: Reiniciar la terminal de comandos.**
+* RF-2: Crear un nuevo proyecto.
+* RF-3: Abrir un proyecto anterior.
+* RF-4: Visualizar información acerca de la aplicación.
+* RF-5: Crear paquetes dentro del proyecto.
+* RF-6: Eliminar paquetes dentro del proyecto.
+* RF-7: Crear archivos Python.
+* RF-8: Eliminar archivos Python.
+* RF-9: Crear clases.
+* RF-10: Eliminar clases.
+* RF-11: Visualizar los paquetes, archivos y clases registradas.
+* RF-12: Visualizar la relación de herencia entre clases.
+* RF-13: Modificar el contenido de un archivo Python.
+* RF-14: Visualizar las instancias creadas.
+* RF-15: Crear instancias de las clases.
+* RF-16: Eliminar instancias de las clases.
+* RF-17: Visualizar el detalle de cada instancia creada.
+* RF-18: Visualizar la terminal de comandos.
+* RF-19: Ingresar comandos en la terminal.
+* RF-20: Limpiar la terminal de comandos.
+* RF-21: Reiniciar la terminal de comandos.
 
 
 ## Objetivos
