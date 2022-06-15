@@ -117,7 +117,7 @@ material-dashboard
 
 ## Recursos 📑
 
-_Para conocer más a fondo sobre el proyecto se puede observar en el enlace: [Blue Py] (https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
+_Para conocer más a fondo sobre el proyecto se puede observar en el enlace:_ [Blue Py] (https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
 
 - Demo: <https://demos.creative-tim.com/material-dashboard/pages/dashboard.html>
 - Download Page: <https://www.creative-tim.com/product/material-dashboard>
