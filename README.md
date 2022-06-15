@@ -1,10 +1,10 @@
-# [Material Dashboard 2] 💻
+# Material Dashboard 2 💻
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/50/original/material-dashboard.jpg?1634648873)
 
-[Blue Py - IDE] es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación python, desarrollado 
+*Blue Py - IDE* es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación python, desarrollado 
 principalmente con propósitos educacionales para apoyar la enseñanza y el aprendizaje de la programación orientada a objetos en el lenguaje de programación 
 Python. El cual permitirá mostrar gráficamente la estructura de clases de una aplicación en desarrollo,los objetos pueden ser creados y probados 
 interactivamente,gracias a contar con una interfaz de usuario simple, esta facilidad de interacción permite experimentar de manera fácil con los objetos en 
@@ -16,7 +16,7 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 * [Requerimientos](#requerimientos)
 * [Objetivos](#objetivos)
 * [Arquitectura](#arquitectura)
-* [Herramientas y Tecnologías Utilizadas](#herramientas-y-tecnologías-utilizadas)
+* [Herramientas Utilizadas](#herramientas-utilizadas)
 * [Estructura del Proyecto](#estructura-del-proyecto)
 * [Recursos](#recursos)
 * [Autores](#autores)
@@ -53,12 +53,12 @@ Este proyecto cuenta con los siguientes requerimientos:
 
 Los objetivos de Blue Py son:
 
-- [Objetivo General]💯: Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingeniería de Sistemas de la UFPS el cual facilite 
+- Objetivo General💯: Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingeniería de Sistemas de la UFPS el cual facilite 
 el aprendizaje de la programación orientada a objetos con Python. 
 
-- [Objetivos Específicos] 🎯: * **Determinar los requerimientos para el funcionamiento del IDE para la enseñanza de la programación orientada a objetos con Python.**
-* **Definir la arquitectura del proyecto y los aspectos metodológicos del desarrollo del proyecto.**
-* **Desarrollar el IDE Blue Py. **
+- Objetivos Específicos 🎯: ** **Determinar los requerimientos para el funcionamiento del IDE para la enseñanza de la programación orientada a objetos con Python.**
+** **Definir la arquitectura del proyecto y los aspectos metodológicos del desarrollo del proyecto.**
+** **Desarrollar el IDE Blue Py. **
 
 
 ## Arquitectura 📝
@@ -82,7 +82,7 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 * [Python](https://netbeans.apache.org) - IDE utilizado
 * [Maven](https://www.apachefriends.org/es/index.html) -Paquete de software libre
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="64" height="64"> 
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="75" height="64"> 
 
 
 
