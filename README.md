@@ -1,4 +1,4 @@
-# BLUE PY - IDE 💻
+# <span style="color: green"> Some green text </span> BLUE PY - IDE 💻
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
