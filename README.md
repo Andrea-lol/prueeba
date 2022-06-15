@@ -78,10 +78,10 @@ rápidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor m
 
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
-* [Java](https://netbeans.apache.org) - IDE utilizado
-* [Java Swing](https://www.apachefriends.org/es/index.html) -Paquete de software libre
-* [Python](https://netbeans.apache.org) - IDE utilizado
-* [Maven](https://www.apachefriends.org/es/index.html) -Paquete de software libre
+* [Java](https://www.java.com/es/) - Lenguaje de Programación
+* [Java Swing](https://www.java.com/es/) - Biblioteca Gráfica
+* [Python](https://www.python.org) - Lenguaje de Programación
+* [Maven](https://maven.apache.org) - Herramienta de Software
 
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="180" height="64"></p>
 
@@ -116,6 +116,9 @@ material-dashboard
 
 
 ## Recursos 📑
+
+_Para conocer más a fondo sobre el proyecto se puede observar en el enlace: [Blue Py] (https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
+
 - Demo: <https://demos.creative-tim.com/material-dashboard/pages/dashboard.html>
 - Download Page: <https://www.creative-tim.com/product/material-dashboard>
 - Documentation: <https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html>
