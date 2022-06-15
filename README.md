@@ -53,12 +53,13 @@ Este proyecto cuenta con los siguientes requerimientos:
 
 Los objetivos de Blue Py son:
 
-- Objetivo General💯: Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingeniería de Sistemas de la UFPS el cual facilite 
+- Objetivo General 💯: Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingeniería de Sistemas de la UFPS el cual facilite 
 el aprendizaje de la programación orientada a objetos con Python. 
 
-- Objetivos Específicos 🎯: ** **Determinar los requerimientos para el funcionamiento del IDE para la enseñanza de la programación orientada a objetos con Python.**
-** **Definir la arquitectura del proyecto y los aspectos metodológicos del desarrollo del proyecto.**
-** **Desarrollar el IDE Blue Py. **
+- Objetivos Específicos 🎯: 
+	1. _Determinar los requerimientos para el funcionamiento del IDE para la enseñanza de la programación orientada a objetos con Python._
+    2. _Definir la arquitectura del proyecto y los aspectos metodológicos del desarrollo del proyecto._
+	3. _Desarrollar el IDE Blue Py._
 
 
 ## Arquitectura 📝
@@ -73,7 +74,7 @@ y el módulo Controller están separados. Esto permite la división del trabajo.
 rápidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor mantener la vista separada del controlador.
 
 
-## Herramientas y Tecnologías Utilizadas 🛠️
+## Herramientas Utilizadas 🛠️
 
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
@@ -82,7 +83,7 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 * [Python](https://netbeans.apache.org) - IDE utilizado
 * [Maven](https://www.apachefriends.org/es/index.html) -Paquete de software libre
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="75" height="64"> 
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="85" height="64"> 
 
 
 
