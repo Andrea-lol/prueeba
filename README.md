@@ -4,11 +4,11 @@
 
 ![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/Logo.png)
 
-*Blue Py - IDE* es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programaci¨®n python, desarrollado 
-principalmente con prop¨®sitos educacionales para apoyar la ense?anza y el aprendizaje de la programaci¨®n orientada a objetos en el lenguaje de programaci¨®n 
-Python. El cual permitir¨¢ mostrar gr¨¢ficamente la estructura de clases de una aplicaci¨®n en desarrollo,los objetos pueden ser creados y probados 
-interactivamente,gracias a contar con una interfaz de usuario simple, esta facilidad de interacci¨®n permite experimentar de manera f¨¢cil con los objetos en 
-desarrollo. Los conceptos de la programaci¨®n orientada a objetos (clases, objetos, comunicaci¨®n a trav¨¦s de llamadas a m¨¦todos). 
+*Blue Py - IDE* es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programaciÃ³n python, desarrollado 
+principalmente con propÃ³sitos educacionales para apoyar la enseÃ±anza y el aprendizaje de la programaciÃ³n orientada a objetos en el lenguaje de programaciÃ³n 
+Python. El cual permitirÃ¡ mostrar grÃ¡ficamente la estructura de clases de una aplicaciÃ³n en desarrollo,los objetos pueden ser creados y probados 
+interactivamente,gracias a contar con una interfaz de usuario simple, esta facilidad de interacciÃ³n permite experimentar de manera fÃ¡cil con los objetos en 
+desarrollo. Los conceptos de la programaciÃ³n orientada a objetos (clases, objetos, comunicaciÃ³n a travÃ©s de llamadas a mÃ©todos). 
 
 
 ## Tabla de Contenido
@@ -26,10 +26,10 @@ desarrollo. Los conceptos de la programaci¨®n orientada a objetos (clases, objet
 
 _Este proyecto cuenta con los siguientes requerimientos:_
 
-* RF-1: Maquetar los contenedores de cada uno de los componentes de la aplicaci¨®n.
+* RF-1: Maquetar los contenedores de cada uno de los componentes de la aplicaciÃ³n.
 * RF-2: Crear un nuevo proyecto.
 * RF-3: Abrir un proyecto anterior.
-* RF-4: Visualizar informaci¨®n acerca de la aplicaci¨®n.
+* RF-4: Visualizar informaciÃ³n acerca de la aplicaciÃ³n.
 * RF-5: Crear paquetes dentro del proyecto.
 * RF-6: Eliminar paquetes dentro del proyecto.
 * RF-7: Crear archivos Python.
@@ -37,7 +37,7 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 * RF-9: Crear clases.
 * RF-10: Eliminar clases.
 * RF-11: Visualizar los paquetes, archivos y clases registradas.
-* RF-12: Visualizar la relaci¨®n de herencia entre clases.
+* RF-12: Visualizar la relaciÃ³n de herencia entre clases.
 * RF-13: Modificar el contenido de un archivo Python.
 * RF-14: Visualizar las instancias creadas.
 * RF-15: Crear instancias de las clases.
@@ -53,72 +53,68 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 
 Los objetivos de Blue Py son:
 
-- Objetivo General :100: : Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingenier¨ªa de Sistemas de la UFPS el cual facilite 
-el aprendizaje de la programaci¨®n orientada a objetos con Python. 
+- Objetivo General :100: : Desarrollar un IDE para los estudiantes de primeros semestres del programa de IngenierÃ­a de Sistemas de la UFPS el cual facilite 
+el aprendizaje de la programaciÃ³n orientada a objetos con Python. 
 
-- Objetivos Espec¨ªficos :dart: : 
-	1. _Determinar los requerimientos para el funcionamiento del IDE para la ense?anza de la programaci¨®n orientada a objetos con Python._
-    2. _Definir la arquitectura del proyecto y los aspectos metodol¨®gicos del desarrollo del proyecto._
+- Objetivos EspecÃ­ficos :dart: : 
+	1. _Determinar los requerimientos para el funcionamiento del IDE para la enseÃ±anza de la programaciÃ³n orientada a objetos con Python._
+    2. _Definir la arquitectura del proyecto y los aspectos metodolÃ³gicos del desarrollo del proyecto._
 	3. _Desarrollar el IDE Blue Py._
 
 
-## Arquitectura :memo::pencil:
+## Arquitectura :memo:
 
 ![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/arquitectura%20blue%20py.png)
 
-La arquitectura seleccionada para el desarrollo de nuestro proyecto es la MVC II, en esta arquitectura el m¨®dulo Modelo proporciona toda la funcionalidad 
-b¨¢sica y los datos compatibles con una base de datos. El m¨®dulo de vista muestra los datos mientras que el m¨®dulo de controlador toma solicitudes de entrada, 
-valida los datos de entrada, inicia el modelo y la vista y su conexi¨®n, y distribuye tareas. El Controlador y la Vista se registran con el m¨®dulo Modelo. Cada 
-vez que se modifican los datos en el m¨®dulo Modelo, se notifican los cambios al m¨®dulo Vista y al m¨®dulo Controlador. En la arquitectura MVC-II, el m¨®dulo View 
-y el m¨®dulo Controller est¨¢n separados. Esto permite la divisi¨®n del trabajo. Adem¨¢s, debido a que la tecnolog¨ªa de la interfaz gr¨¢fica se actualiza 
-r¨¢pidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor mantener la vista separada del controlador.
+La arquitectura seleccionada para el desarrollo de nuestro proyecto es la MVC II, en esta arquitectura el mÃ³dulo Modelo proporciona toda la funcionalidad 
+bÃ¡sica y los datos compatibles con una base de datos. El mÃ³dulo de vista muestra los datos mientras que el mÃ³dulo de controlador toma solicitudes de entrada, 
+valida los datos de entrada, inicia el modelo y la vista y su conexiÃ³n, y distribuye tareas. El Controlador y la Vista se registran con el mÃ³dulo Modelo. Cada 
+vez que se modifican los datos en el mÃ³dulo Modelo, se notifican los cambios al mÃ³dulo Vista y al mÃ³dulo Controlador. En la arquitectura MVC-II, el mÃ³dulo View 
+y el mÃ³dulo Controller estÃ¡n separados. Esto permite la divisiÃ³n del trabajo. AdemÃ¡s, debido a que la tecnologÃ­a de la interfaz grÃ¡fica se actualiza 
+rÃ¡pidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor mantener la vista separada del controlador.
 
 
 ## Herramientas Utilizadas :hammer_and_wrench:
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
-* [Java](https://www.java.com/es/) - Lenguaje de Programaci¨®n
-* [Java Swing](https://www.java.com/es/) - Biblioteca Gr¨¢fica
-* [Python](https://www.python.org) - Lenguaje de Programaci¨®n
+* [Java](https://www.java.com/es/) - Lenguaje de ProgramaciÃ³n
+* [Java Swing](https://www.java.com/es/) - Biblioteca GrÃ¡fica
+* [Python](https://www.python.org) - Lenguaje de ProgramaciÃ³n
 * [Maven](https://maven.apache.org) - Herramienta de Software
 
 <p align="center"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="74" height="64" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="64" height="64" margin-right: 20px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" width="180" height="64"></p>
 
 
 
-## Estructura del Proyecto :clipboard:	
-
+## File Structure
 Within the download you'll find the following directories and files:
 
 ```
 material-dashboard
-    ©À©¤©¤ assets
-    ©¦?? ©À©¤©¤ css
-    ©¦?? ©À©¤©¤ fonts
-    ©¦?? ©À©¤©¤ img
-    ©¦?? ©À©¤©¤ js
-    ©¦?? ©¦?? ©À©¤©¤ core
-    ©¦?? ©¦?? ©À©¤©¤ plugins
-    ©¦?? ©¦?? ©¸©¤©¤ material-dashboard.js
-    ©¦?? ©¦?? ©¸©¤©¤ material-dashboard.js.map
-    ©¦?? ©¦?? ©¸©¤©¤ material-dashboard.min.js
-    ©¦?? ©¸©¤©¤ scss
-    ©¦??     ©À©¤©¤ material-dashboard
-    ©¦??     ©¸©¤©¤ material-dashboard.scss
-    ©À©¤©¤ docs
-    ©¦?? ©À©¤©¤ documentation.html
-    ©À©¤©¤ pages
-    ©À©¤©¤ CHANGELOG.md
-    ©À©¤©¤ gulpfile.js
-    ©À©¤©¤ package.json
+    â”œâ”€â”€ assets
+    â”‚Â Â  â”œâ”€â”€ css
+    â”‚Â Â  â”œâ”€â”€ fonts
+    â”‚Â Â  â”œâ”€â”€ img
+    â”‚Â Â  â”œâ”€â”€ js
+    â”‚Â Â  â”‚Â Â  â”œâ”€â”€ core
+    â”‚Â Â  â”‚Â Â  â”œâ”€â”€ plugins
+    â”‚Â Â  â”‚Â Â  â””â”€â”€ material-dashboard.js
+    â”‚Â Â  â”‚Â Â  â””â”€â”€ material-dashboard.js.map
+    â”‚Â Â  â”‚Â Â  â””â”€â”€ material-dashboard.min.js
+    â”‚Â Â  â””â”€â”€ scss
+    â”‚Â Â      â”œâ”€â”€ material-dashboard
+    â”‚Â Â      â””â”€â”€ material-dashboard.scss
+    â”œâ”€â”€ docs
+    â”‚Â Â  â”œâ”€â”€ documentation.html
+    â”œâ”€â”€ pages
+    â”œâ”€â”€ CHANGELOG.md
+    â”œâ”€â”€ gulpfile.js
+    â”œâ”€â”€ package.json
 ```
-
-
-
 
 ## Recursos :bookmark_tabs: :adult:
 
-Para conocer m¨¢s a fondo sobre el proyecto se puede observar en el enlace [Blue Py](https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
+Para conocer mÃ¡s a fondo sobre el proyecto se puede observar en el enlace [Blue Py](https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
 
 - Demo: <https://demos.creative-tim.com/material-dashboard/pages/dashboard.html>
 - Download Page: <https://www.creative-tim.com/product/material-dashboard>
@@ -136,5 +132,6 @@ Para conocer m¨¢s a fondo sobre el proyecto se puede observar en el enlace [Blue
 Los autores del proyecto son los estudiantes de la asignatura de arquitectura de software 2022-1 y la entidad educativa Universidad Francisco de 
 Paula Santander.
 
-Tambi¨¦n puedes mirar la lista de todos los [contribuyentes](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/graphs/contributors) quienes han participado en este proyecto. 
+TambiÃ©n puedes mirar la lista de todos los [contribuyentes](https://github.com/Arquitectura-de-Software-UFPS-2022-I/python-poo-gui/graphs/contributors) quienes han participado en este proyecto. 
+
 
