@@ -22,7 +22,7 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 * [Autores](#autores)
 
 
-## Requerimientos :page_facing_up:
+## Requerimientos:page_facing_up: 
 
 _Este proyecto cuenta con los siguientes requerimientos:_
 
