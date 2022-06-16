@@ -22,7 +22,7 @@ desarrollo. Los conceptos de la programaci車n orientada a objetos (clases, objet
 * [Autores](#autores)
 
 
-## Requerimientos ??
+## Requerimientos :page_facing_up:
 
 _Este proyecto cuenta con los siguientes requerimientos:_
 
@@ -49,20 +49,20 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 * RF-21: Reiniciar la terminal de comandos.
 
 
-## Objetivos ??
+## Objetivos :trophy:
 
 Los objetivos de Blue Py son:
 
-- Objetivo General ??: Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingenier赤a de Sistemas de la UFPS el cual facilite 
+- Objetivo General :100: : Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingenier赤a de Sistemas de la UFPS el cual facilite 
 el aprendizaje de la programaci車n orientada a objetos con Python. 
 
-- Objetivos Espec赤ficos ??: 
+- Objetivos Espec赤ficos :dart: : 
 	1. _Determinar los requerimientos para el funcionamiento del IDE para la ense?anza de la programaci車n orientada a objetos con Python._
     2. _Definir la arquitectura del proyecto y los aspectos metodol車gicos del desarrollo del proyecto._
 	3. _Desarrollar el IDE Blue Py._
 
 
-## Arquitectura ??
+## Arquitectura :memo::pencil:
 
 ![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/arquitectura%20blue%20py.png)
 
@@ -74,7 +74,7 @@ y el m車dulo Controller est芍n separados. Esto permite la divisi車n del trabajo.
 r芍pidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor mantener la vista separada del controlador.
 
 
-## Herramientas Utilizadas ???
+## Herramientas Utilizadas :hammer_and_wrench:
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programaci車n
@@ -86,7 +86,7 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 
 
-## Estructura del Proyecto ??	
+## Estructura del Proyecto :clipboard:	
 
 Within the download you'll find the following directories and files:
 
@@ -116,7 +116,7 @@ material-dashboard
 
 
 
-## Recursos ????
+## Recursos :bookmark_tabs: :adult:
 
 Para conocer m芍s a fondo sobre el proyecto se puede observar en el enlace [Blue Py](https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
 
@@ -131,7 +131,7 @@ Para conocer m芍s a fondo sobre el proyecto se puede observar en el enlace [Blue
 
 
 
-## Autores ??
+## Autores :black_nib:
 
 Los autores del proyecto son los estudiantes de la asignatura de arquitectura de software 2022-1 y la entidad educativa Universidad Francisco de 
 Paula Santander.
