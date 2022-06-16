@@ -13,13 +13,13 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 
 ## Tabla de Contenido
 
-* [Requerimientos](#requerimientos)
-* [Objetivos](#objetivos)
-* [Arquitectura](#arquitectura)
-* [Herramientas Utilizadas](#herramientas-utilizadas)
-* [Estructura](#estructura)
-* [Recursos](#recursos)
-* [Autores](#autores)
+* [Requerimientos]
+* [Objetivos]
+* [Arquitectura]
+* [Herramientas Utilizadas]
+* [Estructura]
+* [Recursos]
+* [Autores]
 
 
 ## Requerimientos :page_facing_up:
