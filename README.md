@@ -19,7 +19,7 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 * [Herramientas Utilizadas](#herramientas-utilizadas)
 * [Estructura](#estructura)
 * [Recursos](#recursos)
-* [Autores](#autores-black-nib)
+* [Autores](#autores)
 
 
 ## Requerimientos
@@ -137,8 +137,8 @@ Para conocer más a fondo sobre el proyecto se puede observar en:
 - Organigrama: <>
 - Manual de Usuario: <>
 
-
- ## Autores :black_nib:
+:black_nib:
+## Autores 
 
 Los autores del proyecto son los estudiantes de la asignatura de arquitectura de software 2022-1 y la entidad educativa Universidad Francisco de 
 Paula Santander.
