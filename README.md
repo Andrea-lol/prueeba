@@ -138,10 +138,8 @@ Para conocer más a fondo sobre el proyecto se puede observar en:
 - Manual de Usuario: <>
 
 
+ ## Autores  ##:black_nib:
 
-## Autores 
-
-:black_nib:
 Los autores del proyecto son los estudiantes de la asignatura de arquitectura de software 2022-1 y la entidad educativa Universidad Francisco de 
 Paula Santander.
 
