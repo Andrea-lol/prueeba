@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
-![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/Logo.png)
+<p align="center">![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/Logo.png)</p>
 
 *Blue Py - IDE* es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación python, desarrollado 
 principalmente con propósitos educacionales para apoyar la enseñanza y el aprendizaje de la programación orientada a objetos en el lenguaje de programación 
