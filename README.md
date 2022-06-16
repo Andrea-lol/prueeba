@@ -17,7 +17,7 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 * [Objetivos](#objetivos)
 * [Arquitectura](#arquitectura)
 * [Herramientas Utilizadas](#herramientas-utilizadas)
-* [Estructura del Proyecto](#estructura-del-proyecto)
+* [Estructura](#estructura)
 * [Recursos](#recursos)
 * [Autores](#autores)
 
@@ -49,6 +49,7 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 * RF-21: Reiniciar la terminal de comandos.
 
 
+
 ## Objetivos :trophy:
 
 Los objetivos de Blue Py son:
@@ -60,6 +61,8 @@ el aprendizaje de la programación orientada a objetos con Python.
 	1. _Determinar los requerimientos para el funcionamiento del IDE para la enseñanza de la programación orientada a objetos con Python._
     2. _Definir la arquitectura del proyecto y los aspectos metodológicos del desarrollo del proyecto._
 	3. _Desarrollar el IDE Blue Py._
+
+
 
 
 ## Arquitectura :memo:
@@ -74,6 +77,8 @@ y el módulo Controller están separados. Esto permite la división del trabajo.
 rápidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor mantener la vista separada del controlador.
 
 
+
+
 ## Herramientas Utilizadas :hammer_and_wrench:
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
@@ -86,7 +91,8 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 
 
-## File Structure
+
+## Estructura
 Within the download you'll find the following directories and files:
 
 ```
@@ -112,6 +118,8 @@ material-dashboard
     ├── package.json
 ```
 
+
+
 ## Recursos :bookmark_tabs: :adult:
 
 Para conocer más a fondo sobre el proyecto se puede observar en:
@@ -121,6 +129,7 @@ Para conocer más a fondo sobre el proyecto se puede observar en:
 - Arquitectura: <https://drive.google.com/file/d/1w468Mrg2pxUDPG9z96OeO12LVybCw4hw/view?usp=sharing> 
 - Organigrama: <>
 - Manual de Usuario: <>
+
 
 
 ## Autores :black_nib:
