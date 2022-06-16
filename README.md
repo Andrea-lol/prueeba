@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
-<p align="center">![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/Logo.png)</p>
+![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/Logo.png)
 
 *Blue Py - IDE* es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación python, desarrollado 
 principalmente con propósitos educacionales para apoyar la enseñanza y el aprendizaje de la programación orientada a objetos en el lenguaje de programación 
@@ -114,17 +114,13 @@ material-dashboard
 
 ## Recursos :bookmark_tabs: :adult:
 
-Para conocer más a fondo sobre el proyecto se puede observar en el enlace [Blue Py](https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing)
+Para conocer más a fondo sobre el proyecto se puede observar en:
 
-- Demo: <https://demos.creative-tim.com/material-dashboard/pages/dashboard.html>
-- Download Page: <https://www.creative-tim.com/product/material-dashboard>
-- Documentation: <https://demos.creative-tim.com/material-dashboard/docs/2.1/getting-started/introduction.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- PRO Version: <https://www.creative-tim.com/product/material-dashboard-pro>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard/issues)
-- [Material Kit](https://www.creative-tim.com/product/material-kit?ref=github-md-free) - For Front End Development
-
+- Documentación: <https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing>
+- Logo: <https://drive.google.com/file/d/1RZad8ROvUr8UAhoP-5HsbQ67BKp78J0I/view?usp=sharing>
+- Arquitectura: <https://drive.google.com/file/d/1w468Mrg2pxUDPG9z96OeO12LVybCw4hw/view?usp=sharing> 
+- Organigrama: <>
+- Manual de Usuario: <>
 
 
 ## Autores :black_nib:
