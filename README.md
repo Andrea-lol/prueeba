@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/50/original/material-dashboard.jpg?1634648873)
+![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/Logo.png)
 
 *Blue Py - IDE* es un proyecto que consiste en el desarrollo de un entorno integrado de desarrollo para el lenguaje de programación python, desarrollado 
 principalmente con propósitos educacionales para apoyar la enseñanza y el aprendizaje de la programación orientada a objetos en el lenguaje de programación 
@@ -64,7 +64,7 @@ el aprendizaje de la programación orientada a objetos con Python.
 
 ## Arquitectura 📝
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/50/original/material-dashboard.jpg?1634648873)
+![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/arquitectura%20blue%20py.png)
 
 La arquitectura seleccionada para el desarrollo de nuestro proyecto es la MVC II, en esta arquitectura el módulo Modelo proporciona toda la funcionalidad 
 básica y los datos compatibles con una base de datos. El módulo de vista muestra los datos mientras que el módulo de controlador toma solicitudes de entrada, 
@@ -74,8 +74,7 @@ y el módulo Controller están separados. Esto permite la división del trabajo.
 rápidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor mantener la vista separada del controlador.
 
 
-## Herramientas Utilizadas 🛠️
-
+## Herramientas Utilizadas 🛠�?
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
@@ -93,20 +92,20 @@ Within the download you'll find the following directories and files:
 ```
 material-dashboard
     ├── assets
-    │   ├── css
-    │   ├── fonts
-    │   ├── img
-    │   ├── js
-    │   │   ├── core
-    │   │   ├── plugins
-    │   │   └── material-dashboard.js
-    │   │   └── material-dashboard.js.map
-    │   │   └── material-dashboard.min.js
-    │   └── scss
-    │       ├── material-dashboard
-    │       └── material-dashboard.scss
+    │ �?├── css
+    │ �?├── fonts
+    │ �?├── img
+    │ �?├── js
+    │ �?│ �?├── core
+    │ �?│ �?├── plugins
+    │ �?│ �?└── material-dashboard.js
+    │ �?│ �?└── material-dashboard.js.map
+    │ �?│ �?└── material-dashboard.min.js
+    │ �?└── scss
+    │ �?    ├── material-dashboard
+    │ �?    └── material-dashboard.scss
     ├── docs
-    │   ├── documentation.html
+    │ �?├── documentation.html
     ├── pages
     ├── CHANGELOG.md
     ├── gulpfile.js
