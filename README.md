@@ -19,7 +19,7 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 * [Herramientas Utilizadas](#herramientas-utilizadas)
 * [Estructura](#estructura)
 * [Recursos](#recursos)
-* [Autores :black_nib:](#autores-black-nib)
+* [Autores](#autores-black-nib)
 
 
 ## Requerimientos
