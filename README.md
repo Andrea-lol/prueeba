@@ -1,4 +1,4 @@
-# BLUE PY - IDE ??
+# BLUE PY - IDE :computer:
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 
