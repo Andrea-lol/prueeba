@@ -14,12 +14,12 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 ## Tabla de Contenido
 
 * [Requerimientos :page_facing_up:](#requerimientos)
-* [Objetivos](#objetivos)
-* [Arquitectura](#arquitectura)
-* [Herramientas Utilizadas](#herramientas-utilizadas)
-* [Estructura](#estructura)
-* [Recursos](#recursos)
-* [Autores](#autores)
+* [Objetivos :trophy:](#objetivos)
+* [Arquitectura :memo:](#arquitectura)
+* [Herramientas Utilizadas :hammer_and_wrench:](#herramientas-utilizadas)
+* [Estructura :card_index_dividers:](#estructura)
+* [Recursos :bookmark_tabs: :adult:](#recursos)
+* [Autores :black_nib:](#autores)
 
 
 ## Requerimientos 
@@ -50,7 +50,7 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 
 
 
-## Objetivos :trophy:
+## Objetivos 
 
 Los objetivos de Blue Py son:
 
@@ -65,7 +65,7 @@ el aprendizaje de la programación orientada a objetos con Python.
 
 
 
-## Arquitectura :memo:
+## Arquitectura 
 
 ![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/arquitectura%20blue%20py.png)
 
@@ -79,7 +79,7 @@ rápidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor m
 
 
 
-## Herramientas Utilizadas :hammer_and_wrench:
+## Herramientas Utilizadas 
 
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
@@ -93,7 +93,7 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 
 
-## Estructura :card_index_dividers:
+## Estructura 
 
 Within the download you'll find the following directories and files:
 
@@ -122,7 +122,7 @@ material-dashboard
 
 
 
-## Recursos :bookmark_tabs: :adult:
+## Recursos 
 
 Para conocer más a fondo sobre el proyecto se puede observar en:
 
@@ -133,7 +133,7 @@ Para conocer más a fondo sobre el proyecto se puede observar en:
 - Manual de Usuario: <>
 
 
- ## Autores :black_nib:
+ ## Autores 
 
 Los autores del proyecto son los estudiantes de la asignatura de arquitectura de software 2022-1 y la entidad educativa Universidad Francisco de 
 Paula Santander.
