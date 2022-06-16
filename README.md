@@ -93,9 +93,7 @@ _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 
 ## Estructura 
-
 :card_index_dividers:
-
 Within the download you'll find the following directories and files:
 
 ```
