@@ -22,8 +22,9 @@ desarrollo. Los conceptos de la programación orientada a objetos (clases, objet
 * [Autores](#autores)
 
 
-## :page_facing_up: Requerimientos
+## Requerimientos
 
+:page_facing_up: 
 _Este proyecto cuenta con los siguientes requerimientos:_
 
 * RF-1: Maquetar los contenedores de cada uno de los componentes de la aplicación.
@@ -50,8 +51,9 @@ _Este proyecto cuenta con los siguientes requerimientos:_
 
 
 
-## Objetivos :trophy:
+## Objetivos 
 
+:trophy:
 Los objetivos de Blue Py son:
 
 - Objetivo General :100: : Desarrollar un IDE para los estudiantes de primeros semestres del programa de Ingeniería de Sistemas de la UFPS el cual facilite 
@@ -65,10 +67,11 @@ el aprendizaje de la programación orientada a objetos con Python.
 
 
 
-## Arquitectura :memo:
+## Arquitectura 
 
 ![Image](https://github.com/Andrea-lol/prueeba/blob/main/img/arquitectura%20blue%20py.png)
 
+:memo:
 La arquitectura seleccionada para el desarrollo de nuestro proyecto es la MVC II, en esta arquitectura el módulo Modelo proporciona toda la funcionalidad 
 básica y los datos compatibles con una base de datos. El módulo de vista muestra los datos mientras que el módulo de controlador toma solicitudes de entrada, 
 valida los datos de entrada, inicia el modelo y la vista y su conexión, y distribuye tareas. El Controlador y la Vista se registran con el módulo Modelo. Cada 
@@ -79,7 +82,9 @@ rápidamente y los requisitos comerciales cambian muy a menudo, es mucho mejor m
 
 
 
-## Herramientas Utilizadas :hammer_and_wrench:
+## Herramientas Utilizadas 
+
+:hammer_and_wrench:
 _Las herramientas utilizadas para el desarrollo del proyecto fueron:_
 
 * [Java](https://www.java.com/es/) - Lenguaje de Programación
@@ -121,8 +126,9 @@ material-dashboard
 
 
 
-## Recursos :bookmark_tabs: :adult:
+## Recursos 
 
+:bookmark_tabs: :adult:
 Para conocer más a fondo sobre el proyecto se puede observar en:
 
 - Documentación: <https://drive.google.com/drive/folders/1b5IwBA2nswt6BmnGF4TCFswfDyvEJSMG?usp=sharing>
@@ -133,8 +139,9 @@ Para conocer más a fondo sobre el proyecto se puede observar en:
 
 
 
-## Autores :black_nib:
+## Autores 
 
+:black_nib:
 Los autores del proyecto son los estudiantes de la asignatura de arquitectura de software 2022-1 y la entidad educativa Universidad Francisco de 
 Paula Santander.
 
